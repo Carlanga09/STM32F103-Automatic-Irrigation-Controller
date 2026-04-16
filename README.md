@@ -9,7 +9,7 @@ This project is an automatic 4 channel irrigation system based on a STM32F103C8T
 - 4 independent channels (triac output, AC only), ON/OFF and power regulation
 - Rotary encoder based user interface on a 128x64 monochromatic graphic LCD
 - Highly configurable per-channel parameters, including power, hysteresys, sensor thresolds, among others
-- Data logging on MicroSD card (SPI protocol)
+- Data logging on MicroSD card (SPI protocol). Library from ControllersTech: https://controllerstech.com/interface-sd-card-with-stm32-via-spi-dma/
 - I2C Light sensor
 - CR2032 coin battery holder for internal RTC
 ![STM32F103-Automatic-Irrigation-Controller](Images/PCB_and_box_3D_render.jpeg)
