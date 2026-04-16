@@ -12,13 +12,13 @@ This project is an automatic 4 channel irrigation system based on a STM32F103C8T
 - Data logging on MicroSD card (SPI protocol)
 - I2C Light sensor
 - CR2032 coin battery holder for internal RTC
-![STM32F103-Automatic-Irrigation-Controller](Images/PCB + box 3D render.jpeg)
+![STM32F103-Automatic-Irrigation-Controller](Images/PCB_and_box_3D_render.jpeg)
 ## Hardware
 - STM32F103C8T6 MCU at 72MHz
 - Analog soil moisture sensor inputs (0-3.3V)
 - AC water pump / solenoid valve outputs (1A max per channel)
 - 4 layer PCB
-![STM32F103-Automatic-Irrigation-Controller](Images/PCB_3D_ender.jpeg)
+![STM32F103-Automatic-Irrigation-Controller](Images/PCB_3D_render.jpeg)
 ## Software
 - Project created with STM32CubeIDE 1.19.0 using C and HAL
 - Basic state machine for system behavior
